@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adhithyapranave07/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -49,6 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Adhithyapranave07/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adhithyapranave07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
