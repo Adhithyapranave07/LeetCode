@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Adhithyapranave07/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adhithyapranave07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adhithyapranave07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Adhithyapranave07/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adhithyapranave07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adhithyapranave07/LeetCode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhithyapranave07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Adhithyapranave07/LeetCode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Adhithyapranave07/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/Adhithyapranave07/LeetCode/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adhithyapranave07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
