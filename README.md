@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Adhithyapranave07/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Adhithyapranave07/LeetCode/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/Adhithyapranave07/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adhithyapranave07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
