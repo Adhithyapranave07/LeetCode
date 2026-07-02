@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adhithyapranave07/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Adhithyapranave07/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adhithyapranave07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
