@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
