@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-last-stone-weight](https://github.com/Adhithyapranave07/LeetCode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adhithyapranave07/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adhithyapranave07/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
+| [1049-last-stone-weight-ii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
