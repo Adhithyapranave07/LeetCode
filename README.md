@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adhithyapranave07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adhithyapranave07/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adhithyapranave07/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adhithyapranave07/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adhithyapranave07/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
