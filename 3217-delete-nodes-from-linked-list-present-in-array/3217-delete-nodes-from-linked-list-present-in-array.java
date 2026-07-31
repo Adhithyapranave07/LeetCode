@@ -18,7 +18,7 @@ class Solution {
 
       while( head != null){
          if(!set.contains(head.val)){
-         System.out.println(head.val + " ");
+        //  System.out.println(head.val + " ");
             cur.next = head ; 
             cur = cur.next ; 
          }
