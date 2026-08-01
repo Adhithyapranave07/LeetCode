@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
+| [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-last-stone-weight](https://github.com/Adhithyapranave07/LeetCode/tree/master/1046-last-stone-weight) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [1049-last-stone-weight-ii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Breadth-First Search
 |  |
@@ -124,9 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adhithyapranave07/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adhithyapranave07/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
