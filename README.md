@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adhithyapranave07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/Adhithyapranave07/LeetCode/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adhithyapranave07/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adhithyapranave07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/Adhithyapranave07/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adhithyapranave07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
