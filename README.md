@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Adhithyapranave07/LeetCode/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adhithyapranave07/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adhithyapranave07/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adhithyapranave07/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adhithyapranave07/LeetCode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -146,4 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adhithyapranave07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adhithyapranave07/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
