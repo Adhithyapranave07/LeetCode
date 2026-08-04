@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adhithyapranave07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Adhithyapranave07/LeetCode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Adhithyapranave07/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adhithyapranave07/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3945-digit-frequency-score](https://github.com/Adhithyapranave07/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
