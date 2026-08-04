@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adhithyapranave07/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adhithyapranave07/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Adhithyapranave07/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3894-traffic-signal-color](https://github.com/Adhithyapranave07/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adhithyapranave07/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3894-traffic-signal-color](https://github.com/Adhithyapranave07/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Adhithyapranave07/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Adhithyapranave07/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Adhithyapranave07/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3894-traffic-signal-color](https://github.com/Adhithyapranave07/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
