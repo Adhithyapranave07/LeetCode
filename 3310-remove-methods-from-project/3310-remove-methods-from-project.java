@@ -4,15 +4,12 @@ class Solution {
         for( int i = 0 ; i < n ; i++){
             graph.add(new ArrayList<>());
         }
-
         for( int[] a : invocations){
             graph.get(a[0]).add(a[1]);
-        }
-  
+        }  
         boolean[] visited = new boolean[n];
         List<Integer> list = new ArrayList<>();
  
-        visited[k] = true ;
         dfs(k,visited,graph);
 
         // System.out.println(set);
@@ -39,8 +36,7 @@ class Solution {
     }
 
     public void dfs( int i , boolean[] visited ,  List<List<Integer>> graph ){
-   
-
+        visited[i] = true ;
         for( int node : graph.get(i)){
             if(!visited[node]){
                 visited[node] =  true ;
