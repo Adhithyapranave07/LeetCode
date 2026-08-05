@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Adhithyapranave07/LeetCode/tree/master/0279-perfect-squares) |
+| [3310-remove-methods-from-project](https://github.com/Adhithyapranave07/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Adhithyapranave07/LeetCode/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Adhithyapranave07/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Adhithyapranave07/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
