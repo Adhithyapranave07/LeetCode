@@ -175,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Adhithyapranave07/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3310-remove-methods-from-project](https://github.com/Adhithyapranave07/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
