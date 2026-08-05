@@ -25,6 +25,8 @@ class Solution {
                     break;
                 }
             }
+
+            if(!cr) break;
         }
         
         if( !cr) {
